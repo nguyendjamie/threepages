@@ -1,0 +1,38 @@
+#home{
+	background-image: url('background.jpg');
+}
+
+#logo{
+	display: flex;
+	justify-content: center;
+}
+
+#drink{
+	display:flex;
+	justify-content: center;
+}
+
+h1{
+	text-align: center;
+	color:white;
+}
+
+p{
+	text-align: center;
+	color: black;
+	font-size: 18px;
+}
+
+#nav-bar{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    justify-content:center;
+}
+
+li{
+	background-color: yellow;
+	padding: 10px;
+	margin-right: 5px;
+}
